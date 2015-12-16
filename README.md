@@ -38,6 +38,13 @@
 [JustWeEngine](https://github.com/lfkdsk/JustWeEngine) | An easy open source Android game engine 
 [tracklytics](https://github.com/orhanobut/tracklytics) | Annotation based analytics aggregator with AOP
 
+# Snippets links
+| Name |
+  ---- 
+[Android-Snippets](https://github.com/SimonMarquis/Android-Snippets)
+
+
+
 
 # Contribute Rules
 > 1. Don't do evil.
