@@ -13,7 +13,7 @@
 > All applications are sorted in various categories.   
 
 
-# What?
+# Appz
 | Name of category | What's inside |
   ---------------- | ------------- 
 [Android Wear](categories/android_wear.md) | Apps for Android Wear. 
@@ -29,6 +29,8 @@
 [Tools](categories/tools.md) | Apps like Clean Master, Barcode Scanner, Keyboard...
 [Travel & Local](categories/travel_and_local.md) | Apps about travel or local things.   
 
+# Libraries
+| Name of library | What's inside |
 
 # Contribute Rules
 > 1. Don't do evil.
