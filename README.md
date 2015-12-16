@@ -31,6 +31,12 @@
 
 # Libraries
 | Name of library | What's inside |
+[leakcanary](https://github.com/square/leakcanary) | A memory leak detection library for Android and Java.
+[CrossBow](https://github.com/TwistedEquations/CrossBow) | Wrapper Around the Volley library from Google to make it easier to manage and handle image loading 
+[courier](https://github.com/denley/courier) | A delivery service for Android Wear. Courier uses the DataApi and MessageApi to deliver objects between devices simply and cleanly. 
+[JustWeEngine](https://github.com/lfkdsk/JustWeEngine) | An easy open source Android game engine 
+[tracklytics](https://github.com/orhanobut/tracklytics) | Annotation based analytics aggregator with AOP
+
 
 # Contribute Rules
 > 1. Don't do evil.
