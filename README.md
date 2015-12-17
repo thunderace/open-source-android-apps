@@ -38,11 +38,11 @@
 [JustWeEngine](https://github.com/lfkdsk/JustWeEngine) | An easy open source Android game engine 
 [tracklytics](https://github.com/orhanobut/tracklytics) | Annotation based analytics aggregator with AOP
 
-# Snippets links
-| Name |
-  ---- 
-[Android-Snippets](https://github.com/SimonMarquis/Android-Snippets)
-
+# Other links
+| Type | Link |
+  ---- | ----
+Snippets | [Android-Snippets](https://github.com/SimonMarquis/Android-Snippets)
+List | [Android Open Source Projects](https://github.com/Trinea/android-open-project/tree/master/English%20Version)
 
 
 
